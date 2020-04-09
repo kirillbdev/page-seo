@@ -10,9 +10,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "kirillbdev/idea-cms": "master"
-    },
+    "require": {},
     "autoload": {
       "psr-4": {
         "kirillbdev\\PageSeo\\": "src/"
