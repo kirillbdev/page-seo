@@ -1,0 +1,21 @@
+{
+    "name": "kirillbdev/page-seo",
+    "description": "Base SEO plugin for Idea Page",
+    "type": "idea-cms-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kirillbdev",
+            "email": "kirill.babinec@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "kirillbdev/idea-cms": "master"
+    },
+    "autoload": {
+      "psr-4": {
+        "kirillbdev\\PageSeo\\": "src/"
+      }
+    }
+}
