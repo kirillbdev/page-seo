@@ -2,7 +2,7 @@
 
 namespace kirillbdev\PageSeo;
 
-use Idea\Base\PluginBase;
+use IdeaCms\Core\Base\PluginBase;
 use Illuminate\Support\Facades\Event;
 use kirillbdev\IdeaPage\Services\PageService;
 
